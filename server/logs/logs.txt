@@ -1,0 +1,5 @@
+[2024-07-03 18:25:27] userName: 123  task: userExists
+[2024-07-03 18:25:33] userName: qwe  task: userExists
+[2024-07-03 18:25:33] userName: qwe  task: updateUsernames
+[2024-07-03 18:25:36] userName: qwe  task: checkPass
+[2024-07-03 18:25:46] userName: qwe  task: updatePublic
